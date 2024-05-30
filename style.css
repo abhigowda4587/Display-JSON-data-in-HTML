@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.display{
+    display: grid;
+    padding: 20px 50px 0px;
+}
+table, th, td{
+    background-color: aliceblue;
+    padding: 5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    padding: 5px;
+    text-align: center;
+}
+td img{
+    height: 100px;
+}

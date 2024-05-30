@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "img": "./product-img/realme GT 6T 5G.jpg",
+        "name": "Realme GT 6T 5G",
+        "price": "257.00",
+        "inventory": 4,
+        "productCode": "K203"
+    },
+    {
+        "id": 2,
+        "img": "./product-img/POCO M6 5G.jpg",
+        "name": "POCO M6 5G",
+        "price": "257.00",
+        "inventory": 5,
+        "productCode": "K204"
+    },
+    {
+        "id": 3,
+        "img": "./product-img/Redmi Note 13 Pro.jpg",
+        "name": "Redmi Note 13 Pro",
+        "price": "257.00",
+        "inventory": 6,
+        "productCode": "K205"
+    },
+    {
+        "id": 2,
+        "img": "./product-img/realme NARZO.webp",
+        "name": "Realme NARZO",
+        "price": "257.00",
+        "inventory": 5,
+        "productCode": "K204"
+    },
+    {
+        "id": 2,
+        "img": "./product-img/Redmi 13C.webp",
+        "name": "Redmi 13c",
+        "price": "257.00",
+        "inventory": 5,
+        "productCode": "K204"
+    }
+]
